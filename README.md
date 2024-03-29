@@ -14,3 +14,4 @@ And even though this project becomes highly functional in the future, you MUST N
 
 It was developed on Windows OS using the Visual Studio IDE.
 If you are from another language or stack (like Java, CPP, Rust etc), abstract the concepts and re-do the code in your language. The important thing is to absorb the theory.
+Use Chat-GPT to provide you with the equivalent code in your language.
