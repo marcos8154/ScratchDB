@@ -24,12 +24,15 @@ Use Chat-GPT to provide you with the equivalent code in your language.
 5 - data update routine; <br>
 6 - data deletion routine; <br>
 7 - data select routine; <br>
-8 - simple SQL command interpreter <br>
-9 - a program for managing the database <br>
+8 - indexes
+9 - simple SQL command interpreter <br>
+10 - a program for managing the database <br>
 
 So far we already have a lot of work to do;
 When we complete this, we will expand to more features:
 - Joins
 - Network (multi-users)
 - Transactions
+- Triggers
+- Procedures
 - Backup-Restore
