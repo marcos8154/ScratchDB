@@ -29,6 +29,7 @@ Use Chat-GPT to provide you with the equivalent code in your language.
 
 So far we already have a lot of work to do;
 When we complete this, we will expand to more features:
+- Joins
 - Network (multi-users)
 - Transactions
 - Backup-Restore
