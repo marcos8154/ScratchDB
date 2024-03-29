@@ -9,3 +9,8 @@ The objective, in addition to learning about the functioning of low-level data s
 
 (considerations) There is no intention here of creating software that surpasses traditional/commercial databases.
 And even though this project becomes highly functional in the future, you MUST NOT use it in a production environment or coupled with real commercial software. Use this for study and fun only!
+
+## Tools used
+
+It was developed on Windows OS using the Visual Studio IDE.
+If you are from another language or stack (like Java, CPP, Rust etc), abstract the concepts and re-do the code in your language. The important thing is to absorb the theory.
